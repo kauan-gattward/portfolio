@@ -3,22 +3,16 @@
 **AI-Powered Web Developer & Automation Builder**
 Itacaré, Bahia, Brazil (UTC-3)
 
-<!-- TODO: email -->
-Email: TODO: email
-
-<!-- TODO: linkedin -->
-LinkedIn: TODO: LinkedIn URL
+Email: kauannascimentocunha@hotmail.com
 
 GitHub: https://github.com/kauan-gattward
 Portfolio: https://kauan-gattward.github.io/portfolio/
 
-Email and LinkedIn above are placeholders. They are not real contact details.
-
 ## Summary
 
-Freelance web developer in Itacaré, Bahia, Brazil. I build landing pages and websites for local businesses, and I work AI-first: a daily team of assistants helps me research, write, build, follow up, and draft marketing content. I break an unclear request into steps, give each step real context, send weak output back, and check facts against a source before anything ships. Instructions that work are saved so the routine can run again.
+Freelance web developer in Itacaré, Bahia, Brazil, with 5 years of experience building landing pages. I build landing pages and websites for local businesses, and I work AI-first: a daily team of assistants helps me research, write, build, follow up, and draft marketing content. I break an unclear request into steps, give each step real context, send weak output back, and check facts against a source before anything ships. Instructions that work are saved so the routine can run again.
 
-Open to remote work.
+Open to remote work. English: working proficiency. Portuguese: native.
 
 ## Education
 
@@ -26,7 +20,7 @@ Open to remote work.
 
 ## Experience
 
-**Freelance web developer** — Itacaré, Bahia, Brazil
+**Freelance web developer** — Itacaré, Bahia, Brazil · 5 years
 
 - Build landing pages and websites for local businesses, including room galleries, menus, and a direct way to enquire (WhatsApp or Instagram).
 - Run a daily team of AI assistants: Mochi, Nexo, Alex, Jarvis, and Unibot. They help build sites, research, run lead outreach, handle inbox, bills, and calendar, and draft marketing content.
