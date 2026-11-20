@@ -1,6 +1,8 @@
 # Kauan Gattward — portfolio
 
-Static one-page site in English. No build step. GitHub Pages can serve it from the root of `main`.
+Static one-page site. No build step. GitHub Pages serves it from the root of `main`.
+
+The page is in English by default. A switcher also offers Português (Brasil), Español, עברית, and Français. The choice is kept in `localStorage` and can be opened with `?lang=en`, `?lang=pt`, `?lang=es`, `?lang=he`, or `?lang=fr`. Hebrew sets `dir="rtl"`. `resume.md` stays in English.
 
 Published URL: https://kauan-gattward.github.io/portfolio/
 
@@ -16,12 +18,11 @@ Open http://127.0.0.1:4173/
 
 In the repository: **Settings → Pages → Deploy from a branch → `main` → `/ (root)`**.
 
-## Placeholders
+## Contact
 
-These are not real contact details. Search the repo for `TODO:` before sharing the page as a finished application.
+Email on the page and in `resume.md`: kauannascimentocunha@hotmail.com
 
-- Email: `TODO: email` in `index.html` (`data-placeholder="email"`) and in `resume.md`
-- LinkedIn: `TODO: LinkedIn URL` in `index.html` (`data-placeholder="linkedin"`) and in `resume.md`
+LinkedIn is not listed.
 
 ## Fonts
 

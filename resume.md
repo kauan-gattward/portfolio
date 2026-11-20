@@ -10,9 +10,19 @@ Portfolio: https://kauan-gattward.github.io/portfolio/
 
 ## Summary
 
-Freelance web developer in Itacaré, Bahia, Brazil, with 5 years of experience building landing pages. I build landing pages and websites for local businesses, and I work AI-first: a daily team of assistants helps me research, write, build, follow up, and draft marketing content. I break an unclear request into steps, give each step real context, send weak output back, and check facts against a source before anything ships. Instructions that work are saved so the routine can run again.
+Freelance web developer in Itacaré, Bahia, Brazil, with 5 years of experience building landing pages and websites for local businesses. I work AI-first, using AI and automation to research, build, and ship faster.
 
-Open to remote work. English: working proficiency. Portuguese: native.
+Open to remote work.
+
+## Languages
+
+- Portuguese — native
+- English — working proficiency
+- Hebrew — learning
+- Spanish — learning
+- French — learning
+
+Hebrew, Spanish, and French are in progress. They are not working languages.
 
 ## Education
 
@@ -23,12 +33,10 @@ Open to remote work. English: working proficiency. Portuguese: native.
 **Freelance web developer** — Itacaré, Bahia, Brazil · 5 years
 
 - Build landing pages and websites for local businesses, including room galleries, menus, and a direct way to enquire (WhatsApp or Instagram).
-- Run a daily team of AI assistants: Mochi, Nexo, Alex, Jarvis, and Unibot. They help build sites, research, run lead outreach, handle inbox, bills, and calendar, and draft marketing content.
-- Marketing content from that workflow: Instagram Reels scripts, carousels, and video with Remotion.
-- Tools in that setup: Cursor cloud coding agents, Grok, GitHub, Hostinger, Canva, and Figma.
+- Work AI-first, using AI and automation to research, build, and ship faster. The public result is AI-assisted workflows and automation.
+- Marketing content includes Instagram Reels scripts, carousels, and video.
+- Publish sites on GitHub Pages and Hostinger. Use Canva and Figma when a page needs design.
 - Research and contact possible local clients to offer website services. Built a password-protected leads app for that work (status, notes, ready WhatsApp, follow-ups for today, encrypted lead file).
-- Deploy client sites on Hostinger and publish static sites on GitHub Pages.
-- Keep reusable instructions so a defined pass can run again, then read the result before it is published.
 
 ## Selected work
 
@@ -63,10 +71,9 @@ https://kauan-gattward.github.io/rolex-match-move-demo/
 - Landing pages
 - GitHub Pages
 - Hostinger
-- Cursor cloud coding agents, Grok
-- Prompt engineering: context, iteration, fact-checking, reusable instructions
+- AI-assisted workflows and automation
 - Lead outreach
-- Content creation: Instagram Reels scripts, carousels, Remotion video
+- Content creation: Instagram Reels scripts, carousels, and video
 - Canva, Figma
 - Small Node scripts that encrypt private JSON before it is published (leads app and virtual office)
 
