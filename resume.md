@@ -62,9 +62,6 @@ https://kauan-gattward.github.io/vidadesereia/
 **Boutique Dendê** — landing page for a clothing boutique in Ilhéus run by Tay and Dulce. Seasonal edits, gallery, shop story, and WhatsApp delivery. Listed at Vintage Mall, shop 22.
 https://kauan-gattward.github.io/boutique-dende/
 
-**Rolex Match & Move** — mobile scroll demo, unaffiliated with Rolex SA and separate from client work. A Canva match-and-move transition rebuilt so the same elements travel as the page scrolls.
-https://kauan-gattward.github.io/rolex-match-move-demo/
-
 ## Skills
 
 - HTML, CSS, JavaScript
